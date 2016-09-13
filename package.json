@@ -1,5 +1,5 @@
 {
-  "name": "meishi",
+  "name": "node-meishi",
   "version": "1.0.0",
   "description": "A simple meishi.",
   "main": "index.js",
